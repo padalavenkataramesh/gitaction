@@ -20,7 +20,7 @@
 </head>
 <body>
     <div class="form-container">
-        <h2>Contact Us</h2>
+        <h2>Contact Us DEV</h2>
         <?php
         // You could add a simple success message here if redirected from process.php
         if (isset($_GET['status']) && $_GET['status'] == 'success') {
